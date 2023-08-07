@@ -1,12 +1,12 @@
 # book-search-engine-
 
 # Table of Contents
-- Description
-- Installation
-- Usage
-- Deployed Link
-- Repository
-- Author
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed Link](#deployed-link)
+- [Repository](#repository)
+- [Author](#author)
 
 # Description
 
